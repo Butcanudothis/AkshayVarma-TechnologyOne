@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebApp", "MyWebApp.csproj", "{0BABFA9F-729B-4EA5-B5EA-27224B0DB0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAppTests", "..\MyWebAppTests\MyWebAppTests\MyWebAppTests.csproj", "{C833FEB0-90DD-4D5D-98B5-D371C54CCF27}"
+
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
